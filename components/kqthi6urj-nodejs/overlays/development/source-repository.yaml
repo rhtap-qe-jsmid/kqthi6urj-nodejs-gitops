@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kqthi6urj-nodejs-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/kqthi6urj-nodejs
